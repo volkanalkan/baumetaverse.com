@@ -260,7 +260,8 @@ section{
 }
 
 .contact-in {
-	padding: 40px 30px;
+	padding: 40px 30px; 
+  /* 40 px 18 px for iphoen 5 etc. look the responsive settings! */
 }
 
 .contact-in:nth-child(1) {
